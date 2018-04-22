@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-03-25T14:00:18.761Z</updated>
+  <updated>2018-04-20T04:19:59.975Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Centering in CSS</title>
+    <link href="http://yoursite.com/2018/04/20/Centering-in-CSS/"/>
+    <id>http://yoursite.com/2018/04/20/Centering-in-CSS/</id>
+    <published>2018-04-19T16:00:00.000Z</published>
+    <updated>2018-04-20T04:19:59.975Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Horizontally&quot;&gt;&lt;a href=&quot;#Horizontally&quot; class=&quot;headerlink&quot; title=&quot;Horizontally&quot;&gt;&lt;/a&gt;Horizontally&lt;/h2&gt;&lt;h3
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>防抖动（Debouncing）和节流阀（Throttling）</title>
     <link href="http://yoursite.com/2018/03/25/Debounce-and-Trottling/"/>
     <id>http://yoursite.com/2018/03/25/Debounce-and-Trottling/</id>
     <published>2018-03-24T16:00:00.000Z</published>
-    <updated>2018-03-25T14:00:18.761Z</updated>
+    <updated>2018-04-22T10:03:40.177Z</updated>
     
     <summary type="html">
     
@@ -44,7 +66,7 @@
     <link href="http://yoursite.com/2018/03/18/CSS-object-fit/"/>
     <id>http://yoursite.com/2018/03/18/CSS-object-fit/</id>
     <published>2018-03-17T16:00:00.000Z</published>
-    <updated>2018-03-19T15:03:13.739Z</updated>
+    <updated>2018-04-22T10:04:22.048Z</updated>
     
     <summary type="html">
     
@@ -52,9 +74,8 @@
       
         
         
-          &lt;h2&gt;Definition&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The &lt;strong&gt;&lt;code&gt;object-fit&lt;/code&gt;&lt;/strong&gt; &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/CSS&quot;
+          &lt;h2 id=&quot;Definition&quot;&gt;&lt;a href=&quot;#Definition&quot; class=&quot;headerlink&quot; title=&quot;Definition&quot;&gt;&lt;/a&gt;Definition&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;The
         
       
     
@@ -68,7 +89,7 @@
     <link href="http://yoursite.com/2018/03/07/The-Prototype-Chain/"/>
     <id>http://yoursite.com/2018/03/07/The-Prototype-Chain/</id>
     <published>2018-03-06T16:00:00.000Z</published>
-    <updated>2018-04-02T10:32:13.907Z</updated>
+    <updated>2018-04-22T10:04:22.796Z</updated>
     
     <summary type="html">
     
@@ -90,7 +111,7 @@
     <link href="http://yoursite.com/2018/01/26/Angular2-Custom-Two-Way-Binding/"/>
     <id>http://yoursite.com/2018/01/26/Angular2-Custom-Two-Way-Binding/</id>
     <published>2018-01-25T16:00:00.000Z</published>
-    <updated>2018-04-03T02:14:56.096Z</updated>
+    <updated>2018-04-22T10:04:25.236Z</updated>
     
     <summary type="html">
     
@@ -98,9 +119,7 @@
       
         
         
-          &lt;h2&gt;需求&lt;/h2&gt;
-&lt;p&gt;我们在使用表单是时候常常会用到 [(ngModel)] 去绑定我们的内容值
-&lt;figure class=&quot;highlight html&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span
+          &lt;h2 id=&quot;需求&quot;&gt;&lt;a href=&quot;#需求&quot; class=&quot;headerlink&quot; title=&quot;需求&quot;&gt;&lt;/a&gt;需求&lt;/h2&gt;&lt;p&gt;我们在使用表单是时候常常会用到 [(ngModel)] 去绑定我们的内容值&lt;br&gt;&lt;figure class=&quot;highlight
         
       
     
@@ -124,29 +143,6 @@
         
           &lt;h2&gt;Git 仓库组成&lt;/h2&gt;
 &lt;p&gt;&lt;img
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript 的 this 的用法</title>
-    <link href="http://yoursite.com/2017/08/05/JavaScript-this/"/>
-    <id>http://yoursite.com/2017/08/05/JavaScript-this/</id>
-    <published>2017-08-04T16:00:00.000Z</published>
-    <updated>2017-08-05T03:48:16.417Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2&gt;函数调用&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;this&lt;/code&gt; 是 Javascript 语言的一个关键字。它代表函数运行时，自动生成的一个内部对象，只能在函数内部使用。随着函数使用场合的不同，this 的值会发生变化。但是有一个总的原则，那就是 this
         
       
     
